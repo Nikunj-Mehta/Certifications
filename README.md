@@ -30,7 +30,10 @@ This repository showcases my certifications, badges, and achievements.
 ---
 ## 📂 Repository Structure  
 
+```bash
 certifications/
- ├── pdfs/            # Contains all certification PDFs
- ├── images/          # Contains all badge & achievement images
- ├── README.md        # Repository documentation
+│── images/                         # Contains all image files (badges, previews, etc.)
+│── pdfs/                           # Contains all PDF certifications
+│── MicrosoftInternship.pdf         # Raw internship certificate
+│── NIKUNJ-MEHTA_Codsoft_internship_offer.pdf  # Another internship certificate
+│── README.md                       # Describes the achievements
