@@ -30,3 +30,7 @@ This repository showcases my certifications, badges, and achievements.
 ---
 ## 📂 Repository Structure  
 
+certifications/
+ ├── pdfs/            # Contains all certification PDFs
+ ├── images/          # Contains all badge & achievement images
+ ├── README.md        # Repository documentation
