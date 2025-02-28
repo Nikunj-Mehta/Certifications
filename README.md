@@ -28,3 +28,5 @@ This repository showcases my certifications, badges, and achievements.
 > **All certification PDFs are stored in the `/pdfs/` folder, and achievement images are in `/images/`.**
 
 ---
+## 📂 Repository Structure  
+
